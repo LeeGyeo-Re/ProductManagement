@@ -1,0 +1,11 @@
+Hotelmanage\OrderAdded.class
+Hotelmanage\ProductManagement.class
+Hotelmanage\AbstractEvent$1.class
+Hotelmanage\PolicyHandler.class
+Hotelmanage\config\kafka\KafkaProcessor.class
+Hotelmanage\ProductAdded.class
+Hotelmanage\Application.class
+Hotelmanage\ProductManagementRepository.class
+Hotelmanage\Ordered.class
+Hotelmanage\ProductManagementController.class
+Hotelmanage\AbstractEvent.class
